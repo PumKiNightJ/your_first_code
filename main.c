@@ -1,4 +1,4 @@
-int main("Hi,\n")
+int main("Hello,\n")
 {
   int i;
   for (i = 0; i < 32; i++)
